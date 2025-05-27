@@ -9,7 +9,7 @@
 
 I'm Steven Anaya, a Colombian nice guy that is *continuously improving* himself 😁
 
-Also, I'm a Fullstack Software Engineer that has been working on startups for 5+ years. 🚀
+Also, I'm a Staff Software Engineer that has been working on startups for 8+ years. 🚀
 
 Last but not least, I 💛 to lead teams and help people.
 
