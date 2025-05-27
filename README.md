@@ -5,7 +5,7 @@
 <p style="font-weight: bold; padding: 10px; background-color: #1F2028; color: #4ECCA3; border-radius: 5px; box-shadow: 4px 13px 35px -14px rgba(31,32,40,0.66);">Open Source enthusiast 🏁</p>
 
 <p style="padding: 10px; background-color: #2A2B36; color: #FFD369
-; border-radius: 5px; box-shadow: 4px 13px 35px -14px rgba(31,32,40,0.66);">Technical Lead at <a href="https://munitienda.com/" target="_blank">ORBIDI</a> </p>
+; border-radius: 5px; box-shadow: 4px 13px 35px -14px rgba(31,32,40,0.66);">Technical Lead at <a href="https://www.orbidi.com/" target="_blank">ORBIDI</a> </p>
 
 I'm Steven Anaya, a Colombian nice guy that is *continuously improving* himself 😁
 
